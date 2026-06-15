@@ -1,0 +1,31 @@
+SISTEMA COMPLETO DE ATENDIMENTO - GitHub + Firebase + HTML
+
+Arquivos principais:
+- painel.html: abrir na TV.
+- recepcao.html: recepção emite senhas e controla a fila.
+- mesa1.html: Mesa de Laudemir.
+- mesa2.html: Mesa de Andrea.
+- relatorio.html: relatório do dia.
+- firebase-config.js: configuração do Firebase.
+- style.css e app.js: arquivos do sistema.
+
+IMPORTANTE:
+Se seu firebase-config.js antigo já funciona, mantenha ele e NÃO substitua.
+
+Links depois de enviar ao GitHub:
+https://lordlaudemir-eng.github.io/painel.html?v=10
+https://lordlaudemir-eng.github.io/recepcao.html?v=10
+https://lordlaudemir-eng.github.io/mesa1.html?v=10
+https://lordlaudemir-eng.github.io/mesa2.html?v=10
+https://lordlaudemir-eng.github.io/relatorio.html?v=10
+
+Funções incluídas:
+- Senha normal N001, N002...
+- Senha prioritária P001, P002...
+- Fila em tempo real.
+- Recepção controla quantidade de pessoas aguardando.
+- Mesas chamam próxima, rechamam, finalizam, ausente e pausam.
+- Painel Full HD com relógio, voz, bip, filas, mesas e informações rotativas.
+- Relatório do dia.
+
+Na TV, clique em ATIVAR SOM E VOZ para liberar a voz do navegador.

@@ -1,8 +1,11 @@
+// COLE AQUI A CONFIGURAÇÃO DO SEU FIREBASE.
+// Se você já tem esse arquivo funcionando no GitHub, NÃO precisa substituir.
 const firebaseConfig = {
-  apiKey: "AIzaSyBcYDev71DrTrqszev3oL23mPRhezZV6DI",
-  authDomain: "senhas-a376f.firebaseapp.com",
-  projectId: "senhas-a376f",
-  storageBucket: "senhas-a376f.firebasestorage.app",
-  messagingSenderId: "100373736889",
-  appId: "1:100373736889:web:67f750a4343d59f9f45a68"
+  apiKey: "COLE_AQUI",
+  authDomain: "COLE_AQUI",
+  databaseURL: "https://senhas-a376f-default-rtdb.firebaseio.com",
+  projectId: "COLE_AQUI",
+  storageBucket: "COLE_AQUI",
+  messagingSenderId: "COLE_AQUI",
+  appId: "COLE_AQUI"
 };
